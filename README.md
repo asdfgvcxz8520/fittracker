@@ -1,2 +1,1 @@
-# fittracker
-intern project
+# fitness tracker
